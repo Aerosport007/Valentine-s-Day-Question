@@ -1,1 +1,1 @@
-https://valentine-s-day-question.vercel.app/
+Just a fun Valentines Day project made using Google's AI Studio and vercel
